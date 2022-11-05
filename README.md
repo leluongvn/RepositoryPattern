@@ -33,5 +33,3 @@ Getting Started
 1. Download and run the app.
 2. You need Android Studio 3.4 or higher to build this project.
 
-License
--------
